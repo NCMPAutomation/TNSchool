@@ -144,7 +144,7 @@ if __name__ == "__main__":
  
     # Step 3: Execute a specific Robot Framework script
 
-    script_path = "C:/Users/Soumya/AppData/Roaming/Python/Python313/Scripts/Test.robot"  # Change this to your actual script path
+    script_path = "C:/Test.robot"  # Change this to your actual script path
 
     execute_robot_script(script_path)
  
