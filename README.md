@@ -15,3 +15,5 @@ Steps to execute:
 7. Find the bat file.
 
 8. Double-click the bat file to execute the script.
+
+9. You will get a pop-up for systems(computer) admin password.Enter the password to continue the setup
