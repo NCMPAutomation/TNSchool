@@ -1,14 +1,3 @@
-﻿$username = Read-Host "Enter the device username"
-
-Set-Content -Path "$env:TEMP\username.txt" -Value $username
-
-$password = Read-Host "Enter the device password"
-
-Set-Content -Path "$env:TEMP\password.txt" -Value $password
-
-$code = Read-Host "Enter the verification code"
-
-Set-Content -Path "$env:TEMP\code.txt" -Value $code
 
 #############check storage########################
 
